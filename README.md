@@ -1,0 +1,1 @@
+Based on Hypnotize's [lighthud](https://github.com/Hypnootize/lighthud) m0re with elements from [xhud](https://github.com/PapaPeach/xhud)
